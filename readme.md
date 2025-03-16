@@ -1,3 +1,13 @@
+[![Latest Stable Version](https://poser.pugx.org/appolous/laravel-world/v/stable)](https://packagist.org/packages/appolous/laravel-world)
+[![Total Downloads](https://poser.pugx.org/appolous/laravel-world/downloads)](https://packagist.org/packages/appolous/laravel-world)
+[![MIT Licensed](https://poser.pugx.org/appolous/laravel-world/license)](LICENSE.md)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/appolous)
+
+# Package Status
+As the original package is no longer under active development, we are updating this package just to support the latest version of Laravel. Everything else will remain the same.
+
+Support Laravel 7.x - 12.x
+
 # Laravel World Database
 
 This package focused on World Countries, Regions, and Cities database with locale support for Laravel.
