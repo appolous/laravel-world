@@ -1,6 +1,6 @@
-[![Latest Stable Version](https://poser.pugx.org/appolous/laravel-world/v/stable)](https://packagist.org/packages/appolous/laravel-world)
-[![Total Downloads](https://poser.pugx.org/appolous/laravel-world/downloads)](https://packagist.org/packages/appolous/laravel-world)
-[![MIT Licensed](https://poser.pugx.org/appolous/laravel-world/license)](LICENSE.md)
+[![Latest Stable Version](https://poser.pugx.org/appolous/world/v/stable)](https://packagist.org/packages/appolous/world)
+[![Total Downloads](https://poser.pugx.org/appolous/world/downloads)](https://packagist.org/packages/appolous/world)
+[![MIT Licensed](https://poser.pugx.org/appolous/world/license)](LICENSE.md)
 [![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/appolous)
 
 # Package Status
